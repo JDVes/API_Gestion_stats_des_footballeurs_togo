@@ -1,0 +1,24 @@
+
+
+
+{
+  "name": "togo_footballer_stats_api",
+  "version": "1.0.0",
+  "description": "referentiel statistiques des joueurs de foot togolais",
+  "main": "stats.js",
+  "scripts": {
+    "start": "node index.js"
+   
+},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  }
+}
+
+
+
+
